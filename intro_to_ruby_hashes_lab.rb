@@ -1,3 +1,7 @@
+#This method should do the following:
+
+return a hash with one key called :railroads that points to an empty hash
+
 def base_hash 
 {
   railroads: {}
